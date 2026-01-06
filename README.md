@@ -1,5 +1,8 @@
 # Anybank
 
+![Anybank screenshot](public/imagem.png)
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.4.
 
 ## Development server
@@ -65,6 +68,3 @@ This will compile your project and store the build artifacts in the `dist/` dire
 To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
 
 ```bash
-# Anybank
-
-![Anybank screenshot](./public/imagem.png)
